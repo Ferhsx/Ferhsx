@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ferhsx 👋
 
-<!--
-**Ferhsx/Ferhsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year high school student specializing in Computer Science for the Internet. My passion lies in building things for the web, exploring new technologies, and learning by doing.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying Computer Science for the Internet
+- 👨‍💻 Web development enthusiast (HTML, CSS, JavaScript)
+- 🕹️ Tinkerer in GameMaker, Java, and Python for AI
+- 🤝 Collaborating with [Elitinho123456](https://github.com/Elitinho123456) on my final project (TCC): **[TCC-Programacao-Para-Todos](https://github.com/Ferhsx/TCC-Programacao-Para-Todos)**
+
+## 🛠️ Skills & Interests
+
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Game Development:** GameMaker
+- **Exploring:** Java, Python (especially for AI applications)
+- **Curious About:** Artificial Intelligence, Game Creation, and innovative web solutions
+
+## 📌 Featured Project
+
+### [TCC-Programacao-Para-Todos](https://github.com/Ferhsx/TCC-Programacao-Para-Todos)
+> My high school final project, focused on making programming accessible to everyone. Built in collaboration with Elitinho123456.
+
+## 🌐 Connect with Me
+
+- [LinkedIn: Fernando Xavier]((https://www.linkedin.com/in/fernando-xavier-68599833a))
+
+---
+
+Thanks for stopping by! Always open to connecting, collaborating, and exploring new ideas in web, AI, and game development.
