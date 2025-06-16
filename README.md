@@ -7,7 +7,7 @@ I'm a third-year high school student specializing in Computer Science for the In
 - 🎓 Currently studying Computer Science for the Internet
 - 👨‍💻 Web development enthusiast (HTML, CSS, JavaScript)
 - 🕹️ Tinkerer in GameMaker, Java, and Python for AI
-- 🤝 Collaborating with [Elitinho123456](https://github.com/Elitinho123456) on my final project (TCC): **[TCC-Programacao-Para-Todos](https://github.com/Ferhsx/TCC-Programacao-Para-Todos)**
+- 🤝 Collaborating with [Elitinho123456](https://github.com/Elitinho123456) on my final project (TCC): **[TCC-Programacao-Para-Todos](https://github.com/Elitinho123456/TCC-Programacao-Para-Todos)**
 
 ## 🛠️ Skills & Interests
 
@@ -18,7 +18,7 @@ I'm a third-year high school student specializing in Computer Science for the In
 
 ## 📌 Featured Project
 
-### [TCC-Programacao-Para-Todos](https://github.com/Ferhsx/TCC-Programacao-Para-Todos)
+### [TCC-Programacao-Para-Todos](https://github.com/Elitinho123456/TCC-Programacao-Para-Todos)
 > My high school final project, focused on making programming accessible to everyone. Built in collaboration with Elitinho123456.
 
 ## 🌐 Connect with Me
