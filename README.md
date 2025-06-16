@@ -27,4 +27,10 @@ I'm a third-year high school student specializing in Computer Science for the In
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ferhsx&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferhsx&theme=dark" />
+</p>
+
+
 Thanks for stopping by! Always open to connecting, collaborating, and exploring new ideas in web, AI, and game development.
