@@ -29,7 +29,7 @@ I'm a third-year high school student specializing in Computer Science for the In
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ferhsx&show_icons=true&theme=radical" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ferhsx" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ferhsx" alt="GitHub Streak" />
 </p>
 
 
