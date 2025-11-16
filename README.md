@@ -1,29 +1,33 @@
-# Hi, I'm Ferhsx 👋
+# Hi! I'm Fernando Xavier | @Ferhsx 👋
 
-I'm a third-year high school student specializing in Computer Science for the Internet. My passion lies in building things for the web, exploring new technologies, and learning by doing.
+A developer-in-training focused on **Full-Stack Development, Software Architecture, and Machine Learning**. Currently pursuing a technical degree in Computer Science for the Internet.
 
-## 🚀 About Me
+---
 
-- 🎓 Currently studying Computer Science for the Internet
-- 👨‍💻 Web development enthusiast (HTML, CSS, JavaScript)
-- 🕹️ Tinkerer in GameMaker, Java, and Python for AI
-- 🤝 Collaborating with [Elitinho123456](https://github.com/Elitinho123456) on my final project (TCC): **[TCC-Programacao-Para-Todos](https://github.com/Elitinho123456/TCC-Programacao-Para-Todos)**
+## 🚀 Featured Projects (Technical Focus)
 
-## 🛠️ Skills & Interests
+My projects showcase the practical application of web development, data systems, and artificial intelligence concepts.
 
-- **Frontend Development:** HTML, CSS, JavaScript, Vite, React
-- **Game Development:** GameMaker
-- **Exploring:** Java, Python (especially for AI applications)
-- **Curious About:** Artificial Intelligence, Game Creation, and innovative web solutions
+### 🧠 MLOps and AI (Python)
+* **Combat Oracle (Full-Stack MLOps):** System that implements an **XGBoost** model served as a **RESTful API** using **FastAPI**. Demonstrates proficiency in **MLOps** and **Advanced Feature Engineering**.
+* **AZR-Phi3 (Self-Improving AI):** Implementation of the **Absolute-Zero Reasoner** architecture in **Python**, focused on autonomously enhancing the reasoning capabilities of lightweight LLMs (Phi-3-mini).
 
-## 📌 Featured Project
+### 💻 Web Systems (TypeScript/React)
+* **Cronicas do Crepusculo (Digital Sheet):** Front-end application developed with **React** and **TypeScript** using **Tailwind CSS**. Highlights **State Management** and a **Continuous Deployment (GitHub Actions)** pipeline.
+* **TCC: Code Junior (Educational Game):** Interactive game developed for my final project to teach fundamental programming logic to beginners, using **JavaScript** and the **CodeMirror** editor.
 
-### [TCC-Programacao-Para-Todos](https://github.com/Elitinho123456/TCC-Programacao-Para-Todos)
-> My high school final project, focused on making programming accessible to everyone. Built in collaboration with Elitinho123456.
+## 🛠️ Core Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | **TypeScript** (Strong), **Python**, JavaScript, HTML5/CSS3. |
+| **Frameworks/Libs** | **React**, **FastAPI**, Node.js, XGBoost, Scikit-learn. |
+| **Architecture** | **MLOps**, RESTful APIs, Git/GitHub, Data Modeling. |
+| **Data** | SQL, MongoDB (If applicable), Pandas. |
 
 ## 🌐 Connect with Me
 
-- [LinkedIn: Fernando Xavier]((https://www.linkedin.com/in/fernando-xavier-68599833a))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-xavier-68599833a)
 
 ---
 
