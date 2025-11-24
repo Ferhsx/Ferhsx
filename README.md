@@ -23,7 +23,7 @@ My projects showcase the practical application of web development, data systems,
 | **Languages** | **TypeScript** (Strong), **Python**, JavaScript, HTML5/CSS3. |
 | **Frameworks/Libs** | **React**, **FastAPI**, Node.js, XGBoost, Scikit-learn. |
 | **Architecture** | **MLOps**, RESTful APIs, Git/GitHub, Data Modeling. |
-| **Data** | SQL, MongoDB (If applicable), Pandas. |
+| **Data** | SQL, MongoDB, Pandas. |
 
 ## 🌐 Connect with Me
 
